@@ -30,8 +30,15 @@
     display: inline-block;
     margin-left: 40px;
     color: #3f423f;
-    tra
+    transition-duration: 0.4s;
+    transition-property: all;
   }
+   nav ul li:hover{
+    color: #fff;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: #2e3131;
+   }
  nav ul img{
     width: 130px;
     height: 100px;
