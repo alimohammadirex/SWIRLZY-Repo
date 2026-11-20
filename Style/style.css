@@ -169,3 +169,76 @@ p{
 .inner{
       
 }
+.info{
+    border-radius: 30px;
+    position: relative;
+    bottom: 330px;
+    left: 30px;
+        width: 850px;
+        height: 200px;
+        background-color: #fff;
+}
+.info h2{
+line-height: 45px;
+    font-weight: 100;
+     font-family: "Modak", system-ui;
+    font-size: 50px;
+    position: relative;
+    top: 50px;
+    left: 20px;
+}
+hr{
+    width: 600px;
+position: relative;
+left: 200px;
+bottom: 110px;
+}
+.df{
+     font-family: "Geist", sans-serif;
+     font-weight: bold;
+}
+.aa{
+position: relative;
+left: 290px;
+bottom: 60px;
+}
+.dd{
+    position: relative;
+left: 290px;
+bottom: 50px;
+}
+.bb{
+    position: relative;
+    bottom: 100px;
+    left: 320px;
+}
+h2{
+    width: 140px;
+}
+.ff{
+    position: relative;
+    bottom: 90px;
+    left: 320px;
+}
+.fd{
+    color: #3a3c3d;
+    font-size: 14.7px;
+}
+.cl{
+    font-family: "Geist", sans-serif; font-weight: bold;
+    line-height: 19px; 
+}
+.cc{
+    position: relative;
+    left: 650px;
+    bottom: 140px;
+}
+.gg{
+      position: relative;
+    left: 650px;
+    bottom: 130px;  
+}
+.b{
+    position: relative;
+    bottom: 40px;
+}
