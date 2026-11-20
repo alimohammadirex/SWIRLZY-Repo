@@ -8,3 +8,32 @@
   body{
     background-color: #c2c4bc;
   }
+  main{
+       width: 100vw;
+       height: 100vh;
+  }
+  header{
+    width: 800px;
+  }
+  nav{
+  
+    position: relative;
+    left: 370px;
+    top: 20px;
+     font-family: "Geist", sans-serif;
+  }
+  ul{
+    width: 500px;
+  }
+  nav ul li{
+    display: inline-block;
+    margin-left: 40px;
+    color: #3f423f;
+  }
+ nav ul img{
+    width: 130px;
+    height: 100px;
+    position: absolute;
+    left: -340px;
+top: -30px;
+ }
