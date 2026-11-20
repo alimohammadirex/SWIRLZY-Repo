@@ -37,3 +37,92 @@
     left: -340px;
 top: -30px;
  }
+ .bescuit-part{
+    border-radius: 50px;
+    position: relative;
+    left: 30px;
+    top: 50px;
+    width: 850px;
+    height: 500px;
+    background-color:  #f7bf68;
+ }
+ .st-line{
+      font-family: "Modak", system-ui;
+      font-size: 130px;
+     padding-left: 160px;
+     padding-top: 60px;
+   
+      color: #fff;
+      font-weight: 100;
+ }
+  .nd-line{
+      font-family: "Modak", system-ui;
+      font-size: 130px;
+     padding-left: 160px;
+     padding-top: -60px;
+     letter-spacing: 10px;
+      color: #fff;
+      font-weight: 100;
+ }
+ h1{
+    height: 200px;
+   filter: drop-shadow(5px 5px 8px rgb(73, 68, 68));
+    position: relative;
+    bottom: 390px;
+ }
+ .bescuit-part img{
+width: 390px;
+height: 370px;
+z-index: 10;
+position: relative;
+left: 200px;
+top: 20px;
+filter: drop-shadow(10px 10px 15px rgb(71, 67, 67));
+}
+.description p{
+    position: relative;
+    bottom: 320px;
+    left: 60px;
+   font-family: "Geist", sans-serif; 
+   color: #3f423f;
+   line-height: 18px;
+}
+.old pre{
+  font-family: "Modak", system-ui;
+  color: #fff;
+  font-size: 37px;
+      position: relative;
+    bottom: 386px;
+    left: 390px;
+}
+.old span{
+  font-family: "Geist", sans-serif;
+  color: #312e2e;
+  font-size: 17px;
+      position: relative;
+    bottom: 396px;
+    left: 405px;
+}
+.cards{
+    position: relative;
+    left: 400px;
+    bottom: 480px;
+}
+.cards img{
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+   filter: none;
+    border-radius: 10px;
+}
+.cards img:nth-child(1){
+    border: 1px solid white; 
+}
+.cards img:nth-child(2){
+    background-color:  #bfc2c465;
+    backdrop-filter: blur(5px);
+}
+.cards img:nth-child(3){
+    background-color:  #bfc2c465;
+    backdrop-filter: blur(5px);
+}
